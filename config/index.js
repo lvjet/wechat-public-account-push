@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ojcu75756lNAN39YyyTGQxrdNOVg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ATY8R1eASWKv7H5yF1PUYlnrmagMBVyeFhUZZFyMfe0",
+      useTemplateId: "UFv5lXxRAUinmd0zcTFVuARo6M16qfe0KQb6R7mbnDU",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -60,7 +60,7 @@ export const config = {
     {
       name: "老婆1",
       id: "ojcu756iGuwIiEk76OUUzNZOjo_Y",
-      useTemplateId: "ATY8R1eASWKv7H5yF1PUYlnrmagMBVyeFhUZZFyMfe0",
+      useTemplateId: "UFv5lXxRAUinmd0zcTFVuARo6M16qfe0KQb6R7mbnDU",
       // 所在省份
       province: "江苏",
       // 所在城市
