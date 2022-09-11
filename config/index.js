@@ -59,40 +59,17 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "",
-      useTemplateId: "",
+      id: "wx950a1b0acc04a8f4",
+      useTemplateId: "d1758a67b9610af72eadc7d4e4618ae7",
       province: "",
-      city: "",
+      city: "扬州",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
     },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+    
     // 你可以不断按格式往下增加
     // ...
   ],
@@ -123,9 +100,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "江苏",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "扬州",
 
   /** 重要节日相关 */
 
@@ -172,11 +149,11 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    //{"keyword": "love_day", date: "2022-09-08"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+    //{"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+    //{"keyword": "ex_day", date: "2022-09-10"},
     // 你可以不断按格式往下增加
     // ...
   ],
