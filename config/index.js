@@ -23,11 +23,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "宝宝0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ojcu75756lNAN39YyyTGQxrdNOVg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "jaGdRnWT6qTjJTijkbpLyOf0_vvIDc9ZqUjpiVUMAKI",
+      useTemplateId: "ATY8R1eASWKv7H5yF1PUYlnrmagMBVyeFhUZZFyMfe0",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -41,11 +41,11 @@ export const config = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        //{"type": "*生日", "name": "宝宝", "year": "1997", "date": "08-17"},
-        //{"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "06-10"},
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "宝宝", "year": "1997", "date": "09-18"},
+        {"type": "*生日", "name": "宝宝", "year": "1997", "date": "08-17"},
         {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "06-10"},
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        //{"type": "生日", "name": "宝宝", "year": "1997", "date": "09-18"},
+        //{"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "06-10"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
