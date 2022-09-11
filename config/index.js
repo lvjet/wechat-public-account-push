@@ -59,7 +59,7 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "ojcu756iGuwIiEk76OUUzNZOjo_Y",
+      id: "ojcu757JrE65f4LJig4vWt2FxyMo",
       useTemplateId: "VOGQa5V3Ihl73Jp2kKhY_wDPszy18muZ4fhrlHAbuSo",
       // 所在省份
       province: "江苏",
