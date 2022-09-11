@@ -57,17 +57,17 @@ export const config = {
         //{"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    //{
-    //  name: "老婆1",
-    //  id: "wx950a1b0acc04a8f4",
-    //  useTemplateId: "d1758a67b9610af72eadc7d4e4618ae7",
-    //  province: "",
-    // city: "扬州",
-    //  horoscopeDate: '',
-    //  horoscopeDateType: '',
-    // openUrl: "https://wangxinleo.cn",
-    //  festivals: [],
-    //  customizedDateList: []
+    {
+      name: "老婆1",
+      id: "ojcu75756lNAN39YyyTGQxrdNOVg",
+      useTemplateId: "d1758a67b9610af72eadc7d4e4618ae7",
+      province: "",
+      city: "扬州",
+      horoscopeDate: '',
+      horoscopeDateType: '',
+      openUrl: "https://wangxinleo.cn",
+      festivals: [],
+      customizedDateList: []
     },
     
     // 你可以不断按格式往下增加
