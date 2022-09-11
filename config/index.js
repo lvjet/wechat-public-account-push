@@ -61,7 +61,7 @@ export const config = {
       name: "老婆1",
       id: "ojcu756iGuwIiEk76OUUzNZOjo_Y",
       useTemplateId: "ATY8R1eASWKv7H5yF1PUYlnrmagMBVyeFhUZZFyMfe0",
-      province: "",
+      province: "江苏",
       city: "扬州",
       horoscopeDate: '',
       horoscopeDateType: '',
